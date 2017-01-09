@@ -112,7 +112,7 @@
 
 
 <item>
-<title>-[COLOR blue] Piratas del Caribe [/COLOR]</title>
+<title>-[COLOR purple] Piratas del Caribe [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -124,7 +124,7 @@
 
 
 <item>
-<title>-[COLOR yellow] Rambo [/COLOR]</title>
+<title>-[COLOR purple] Rambo [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -156,7 +156,7 @@
 
 
 <item>
-<title>-[COLOR yellow] Torrente [/COLOR]</title>
+<title>-[COLOR purple] Torrente [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -167,11 +167,23 @@
 
 
 
+<item>
+<title>-[COLOR yellow]  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item>
 
 
 
-
-
+<item>
+<title>-[COLOR yellow]  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item>
 
 
 
