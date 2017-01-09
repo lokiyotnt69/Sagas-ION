@@ -6,7 +6,7 @@
 
 
 <item>
-<title>-[COLOR yellow] American Pie [/COLOR]</title>
+<title>-[COLOR purple] American Pie [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.derinfilmizle.com/uploads/film/2015/07/amerikan-pastasi-1-turkce-dublaj-izle.jpg</thumbnail>
 <fanart></fanart>
@@ -48,12 +48,89 @@
 
 
 <item>
-<title>-[COLOR yellow] Destino Final [/COLOR]</title>
+<title>-[COLOR purple] Crepusculo [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/crepusculo.xml</externallink>	
+</item>
+
+
+
+<item>
+<title>-[COLOR purple] Destino Final [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://img.desmotivaciones.es/201108/destinofinal5cartelpelicula.jpg</thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/Destinofinal.xml</externallink>	
 </item>
+
+
+
+
+<item>
+<title>-[COLOR purple] El Señor de Los Anillos [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/else%C3%B1ordelosanillos.xml</externallink>	
+</item>
+
+
+
+<item>
+<title>-[COLOR purple] JUNGLA DE CRISTAL  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/jungladecristal.xml</externallink>	
+</item>
+
+
+
+
+
+<item>
+<title>-[COLOR purple] Parque Jurasico  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/parquejurassico.xml</externallink>	
+</item>
+
+
+
+
+<item>
+<title>-[COLOR purple] Planeta de Los Simios [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item>
+
+
+
+<item>
+<title>-[COLOR blue] Piratas del Caribe [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/piratasdelcaribe.xml</externallink>	
+</item>
+
+
+
+
+
+<item>
+<title>-[COLOR yellow] Rambo [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/rambo.xml</externallink>	
+</item>
+
 
 
 <item>
@@ -76,46 +153,6 @@
 
 
 
-<item>
-<title>-[COLOR blue] JUNGLA DE CRISTAL  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/jungladecristal.xml</externallink>	
-</item>
-
-
-
-
-<item>
-<title>-[COLOR pink] El Señor de Los Anillos [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/else%C3%B1ordelosanillos.xml</externallink>	
-</item>
-
-
-
-
-<item>
-<title>-[COLOR blue] Piratas del Caribe [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/piratasdelcaribe.xml</externallink>	
-</item>
-
-
-
-
-<item>
-<title>-[COLOR blue] Parque Jurasico  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/parquejurassico.xml</externallink>	
-</item>
 
 
 <item>
@@ -128,38 +165,12 @@
 
 
 
-<item>
-<title>-[COLOR yellow] Planeta de Los Simios [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
-</item>
 
 
 
 
 
 
-<item>
-<title>-[COLOR yellow] Rambo [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/rambo.xml</externallink>	
-</item>
-
-
-
-
-
-<item>
-<title>-[COLOR yellow] Crepusculo [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/crepusculo.xml</externallink>	
-</item>
 
 
 
