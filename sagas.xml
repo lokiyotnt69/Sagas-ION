@@ -36,7 +36,7 @@
 
 
 <item>
-<title>-[COLOR purple] Blade [/COLOR]</title>
+<title>-[COLOR purple] BLADE [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/1/19/Blade_movie.jpg</thumbnail>
 <fanart></fanart>
@@ -50,8 +50,8 @@
 <item>
 <title>-[COLOR purple] Crepusculo [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.lunanuevameyer.com/fotoslnm/noticias//imagenNoticia40201.jpg</thumbnail>
+<fanart>http://www.lunanuevameyer.com/fotoslnm/noticias//imagenNoticia40201.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/crepusculo.xml</externallink>	
 </item>
 
@@ -71,8 +71,8 @@
 <item>
 <title>-[COLOR purple] El Señor de Los Anillos [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://es.web.img3.acsta.net/medias/nmedia/18/89/85/69/20070008.jpg</thumbnail>
+<fanart>http://es.web.img3.acsta.net/medias/nmedia/18/89/85/69/20070008.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/else%C3%B1ordelosanillos.xml</externallink>	
 </item>
 
@@ -81,16 +81,16 @@
 <item>
 <title>-[COLOR yellow] Halloween [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/d/d6/Halloween6cover.JPG</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/en/d/d6/Halloween6cover.JPG</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/halloween.xml</externallink>	
 </item>
 
 <item>
 <title>-[COLOR purple] JUNGLA DE CRISTAL  [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.cineochentas.com/wp-content/uploads/2011/08/la-jungla-de-cristal-pelicula.jpg</thumbnail>
+<fanart>http://www.cineochentas.com/wp-content/uploads/2011/08/la-jungla-de-cristal-pelicula.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/jungladecristal.xml</externallink>	
 </item>
 
