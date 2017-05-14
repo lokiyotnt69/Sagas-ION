@@ -6,7 +6,7 @@
 
 
 <item>
-<title>-[COLOR purple] American Pie [/COLOR]</title>
+<title>-[COLOR purple] AMERICAN PIE [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.derinfilmizle.com/uploads/film/2015/07/amerikan-pastasi-1-turkce-dublaj-izle.jpg</thumbnail>
 <fanart>http://pics.filmaffinity.com/american_pie-976453006-large.jpg</fanart>
@@ -16,7 +16,7 @@
 
 
 <item>
-<title>-[COLOR purple] Anaconda [/COLOR]</title>
+<title>-[COLOR purple] ANACONDA [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.pelismundo.com/wp-content/uploads/2015/07/Anaconda-1.jpg</thumbnail>
 <fanart></fanart>
@@ -25,7 +25,7 @@
 
 
 <item>
-<title>-[COLOR purple] Arma Letal [/COLOR]</title>
+<title>-[COLOR purple] ARMA LETAL [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://pics.filmaffinity.com/lethal_weapon_3-400957456-large.jpg</thumbnail>
 <fanart></fanart>
@@ -402,12 +402,13 @@
 <externallink></externallink>	
 </item>
 
+
 <item>
-<title>-[COLOR yellow] EL PLANETA DE LOS SIMIOS [/COLOR]</title>
+<title>-[COLOR blue] EL PLANETA DE LOS SIMIOS [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
+<thumbnail>http://www.flims.cl/wp-content/uploads/2011/09/Afiche-Simios-Baja-02.jpg</thumbnail>
+<fanart>http://www.flims.cl/wp-content/uploads/2011/09/Afiche-Simios-Baja-02.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/Elplanetadelossimios.xml</externallink>	
 </item>
 
 
