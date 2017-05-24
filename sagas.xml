@@ -87,6 +87,7 @@
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/halloween.xml</externallink>	
 </item>
 
+
 <item>
 <title>-[COLOR purple] JUNGLA DE CRISTAL  [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -94,7 +95,6 @@
 <fanart>http://www.cineochentas.com/wp-content/uploads/2011/08/la-jungla-de-cristal-pelicula.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/jungladecristal.xml</externallink>	
 </item>
-
 
 
 
@@ -127,7 +127,6 @@
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/piratasdelcaribe.xml</externallink>	
 </item>
-
 
 
 
@@ -208,8 +207,8 @@
 <item>
 <title>-[COLOR yellow] AULLIDOS [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://pics.filmaffinity.com/the_howling-912849958-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/the_howling-912849958-large.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/AULLIDOS.xml</externallink>	
 </item>
 
@@ -239,6 +238,7 @@
 <fanart>http://pics.filmaffinity.com/crocodile_dundee-173542818-large.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/Cocodrilodundee.xml</externallink>	
 </item>
+
 
 <item>
 <title>-[COLOR skyblue] CONAN [/COLOR]</title>
@@ -270,19 +270,21 @@
 
 
 <item>
-<title>-[COLOR yellow]  DAREDEVIL [/COLOR]</title>
+<title>-[COLOR skyblue] DAREDEVIL [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
+<thumbnail>http://pics.filmaffinity.com/daredevil-664424661-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/daredevil-664424661-large.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/DAREDEVIL.xml</externallink>	
 </item>
 
+
+
 <item>
-<title>-[COLOR yellow] DEATH RACE [/COLOR]</title>
+<title>-[COLOR skyblue] DEATH RACE [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
+<thumbnail>http://pics.filmaffinity.com/death_race_2000-535329816-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/death_race_2000-535329816-large.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/LAcarreradelamuerte.xml</externallink>	
 </item>
 
 
