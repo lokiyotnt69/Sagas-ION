@@ -1,0 +1,276 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+ <title>[COLOR white][COLOR lime] JHG [/COLOR]01 Dragon Ball Z - Saga de los Saiyajins</title>
+<link>$doregex[makelist]</link>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://dragonballtv.com/wp-content/uploads/2011/10/saga-saiyajin.jpg</thumbnail>
+		<fanart>http://soydarketoyk.mex.tl/imagesnew2/0/0/0/1/2/2/9/7/8/4/Guerreos_Z_principio_saga_saiyan.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/01-dragon-ball-z-saga-de-los-saiyajins-38255</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SeriesHD/01-dragon-ball-z-saga-de-los-saiyajins-38255</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://dragonballtv.com/wp-content/uploads/2011/10/saga-saiyajin.jpg</thumbnail>
+<fanart>http://soydarketoyk.mex.tl/imagesnew2/0/0/0/1/2/2/9/7/8/4/Guerreos_Z_principio_saga_saiyan.jpg</fanart>
+</item>
+
+
+<item>
+ <title>[COLOR white][COLOR lime] JHG [/COLOR]02 Dragon Ball Z - Saga Freezer</title>
+<link>$doregex[makelist]</link>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://www.foroswebgratis.com/imagenes_foros/4/4/1/2/0/1119967-dragon-ball-z-poster.jpg</thumbnail>		<fanart>http://orig09.deviantart.net/c026/f/2013/003/6/3/dragon_ball_z_las_formas_de_freezer_en_namek_by_wilson_adrian-d5qc9px.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/02-dragon-ball-z-saga-freezer-38283</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SeriesHD/02-dragon-ball-z-saga-freezer-38283</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://www.foroswebgratis.com/imagenes_foros/4/4/1/2/0/1119967-dragon-ball-z-poster.jpg</thumbnail>
+<fanart>http://orig09.deviantart.net/c026/f/2013/003/6/3/dragon_ball_z_las_formas_de_freezer_en_namek_by_wilson_adrian-d5qc9px.jpg</fanart>
+</item>
+
+<item>
+ <title>[COLOR white][COLOR lime] JHG [/COLOR]03 Dragon Ball Z - Saga El Regreso de Garlick</title>
+<link>$doregex[makelist]</link>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://i.imgur.com/tQIEQ94.jpg</thumbnail>		<fanart>http://i.imgur.com/FFpsmZ0.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/03-dragon-ball-z-saga-el-regreso-de-garlick-jr-38284</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SeriesHD/03-dragon-ball-z-saga-el-regreso-de-garlick-jr-38284</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i.imgur.com/tQIEQ94.jpg</thumbnail>
+<fanart>http://i.imgur.com/FFpsmZ0.jpg</fanart>
+</item>
+
+
+<item>
+ <title>[COLOR white][COLOR lime] JHG [/COLOR]04 Dragon Ball Z - Saga de Los Androides</title>
+<link>$doregex[makelist]</link>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://www.popularlibros.com/imagenes_grandes/9788416/978841640122.JPG</thumbnail>		<fanart>https://static.comicvine.com/uploads/original/11121/111215084/4574178-android+saga.png</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/04-dragon-ball-z-saga-de-los-androides-38285</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SeriesHD/04-dragon-ball-z-saga-de-los-androides-38285</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.popularlibros.com/imagenes_grandes/9788416/978841640122.JPG</thumbnail>
+<fanart>https://static.comicvine.com/uploads/original/11121/111215084/4574178-android+saga.png</fanart>
+</item>
+
+
+<item>
+ <title>[COLOR white][COLOR lime] JHG [/COLOR]05 Dragon Ball Z - Saga de Cell</title>
+<link>$doregex[makelist]</link>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://images2.wikia.nocookie.net/__cb20131102004008/dragonball/es/images/8/87/Saga_de_cell.png</thumbnail>		<fanart>https://i.ytimg.com/vi/P4AmOcoPi14/maxresdefault.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/05-dragon-ball-z-saga-de-cell-38286</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SeriesHD/05-dragon-ball-z-saga-de-cell-38286</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://images2.wikia.nocookie.net/__cb20131102004008/dragonball/es/images/8/87/Saga_de_cell.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/P4AmOcoPi14/maxresdefault.jpg</fanart>
+</item>
+
+
+<item>
+ <title>[COLOR white][COLOR lime] JHG [/COLOR]06 Dragon Ball Z - Saga del gran Saiyaman</title>
+<link>$doregex[makelist]</link>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://img12.deviantart.net/3381/i/2012/223/9/d/poster_dragon_ball_z__vegeta_vs_goku_by_dony910-d5arfq4.jpg</thumbnail>		
+<fanart>http://i1.ytimg.com/vi/wstBewwipGI/maxresdefault.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/06-dragon-ball-z-saga-del-gran-saiyaman-38287</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SeriesHD/06-dragon-ball-z-saga-del-gran-saiyaman-38287</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://img12.deviantart.net/3381/i/2012/223/9/d/poster_dragon_ball_z__vegeta_vs_goku_by_dony910-d5arfq4.jpg</thumbnail>
+<fanart>http://i1.ytimg.com/vi/wstBewwipGI/maxresdefault.jpg</fanart>
+</item>
+
+
+<item>
+ <title>[COLOR white][COLOR red] JHG [/COLOR]07 Dragon Ball Z - Saga de Buu</title>
+<link>$doregex[makelist]</link>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://s-media-cache-ak0.pinimg.com/236x/52/de/2a/52de2a84d6b2b4817aad096caf692d07.jpg</thumbnail>		
+<fanart>http://img2.wikia.nocookie.net/__cb20131024224258/dragonball/es/images/e/ec/Saga-de-boo.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/07-dragon-ball-z-saga-de-buu-38288</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SeriesHD/07-dragon-ball-z-saga-de-buu-38288</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/236x/52/de/2a/52de2a84d6b2b4817aad096caf692d07.jpg</thumbnail>
+<fanart>http://img2.wikia.nocookie.net/__cb20131024224258/dragonball/es/images/e/ec/Saga-de-boo.jpg</fanart>
+</item>
